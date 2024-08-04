@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnSimpan
+id etBarang
+id etHarga
+id etStok
+id hapus
+id main
+id rcvBarang
+id tvBarang
+id tvHarga
+id tvMenu
+id tvPilihan
+id tvStok
+id ubah
+layout activity_main
+layout item_barang
+menu menu_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SQLiteDatabase
+style Theme.SQLiteDatabase
+xml backup_rules
+xml data_extraction_rules
